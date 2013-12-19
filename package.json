@@ -9,7 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "express.jsx": "~0.1.2",
+    "express.jsx": "git://github.com/yosuke-furukawa/express.jsx.git",
     "socket.io.jsx": "0.0.1",
     "express": "~3.4.7"
   },
